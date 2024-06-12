@@ -1,1 +1,1 @@
-# InternshipAeologic
+# internshipAeologic
